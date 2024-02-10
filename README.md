@@ -13,5 +13,12 @@ If no product has been purchased, the "Sell" button should not be active.
 
 If the price of any product is higher than the balance, the "Buy" button should not be active.
 
-Purchased products should be listed at the bottom of the screen with their quantity and total cost.![Screenshot 2024-02-06 172357](https://github.com/halecosar/Hafta-22/assets/142445977/aef103ff-381d-462d-9fcc-ceb5c29c0b51)
+Purchased products should be  listed at the bottom of the screen with their quantity and total cost.
+
+
+![Screenshot 2024-02-10 143106](https://github.com/halecosar/Hafta-22/assets/142445977/cec9083d-c2b0-4343-a170-64a11c4ac44c)
+
+
+
+
 ![Screenshot 2024-02-10 143307](https://github.com/halecosar/Hafta-22/assets/142445977/be8375f1-4d88-4ac1-b119-196b9251f3f8)
