@@ -115,6 +115,8 @@ function App() {
             <div className='total'>
               <div>TOTAL</div>
               <div>${totalPrice}</div>
+              <br />
+              <br />
             </div>
           </div>
 
