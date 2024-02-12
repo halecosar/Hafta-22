@@ -1,10 +1,10 @@
 import './App.css'
 import Section1 from './components/section101/section1'
-import Section2 from './components/section2'
-import Section3 from './components/section3'
+import Section2 from './components/section102/section2'
+import Section3 from './components/section103/section3'
 import Section4 from './components/section4'
 import Section5 from './components/section5'
-import Section6 from './components/section6'
+import Section6 from './components/section106/section6'
 
 import React from 'react'
 
